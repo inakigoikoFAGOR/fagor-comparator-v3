@@ -1,0 +1,194 @@
+﻿ID Tarifa;Continente;Pais;Moneda (ISO)
+E0;Africa;Algeria;DZD
+E0;Africa;Angola;AOA
+E0;Africa;Benin;EUR
+E0;Africa;Botswana;EUR
+E0;Africa;Burkina Faso;EUR
+E0;Africa;Burundi;EUR
+E0;Africa;Cape Verde;EUR
+E0;Africa;Cameroon;EUR
+E0;Africa;Chad;EUR
+E0;Africa;Comoros;EUR
+E0;Africa;Cote d'Ivoire;EUR
+E0;Africa;Egypt;EGP
+E0;Africa;Eritrea;EUR
+E0;Africa;Eswatini;EUR
+E0;Africa;Ethiopia;ETB
+E0;Africa;Gabon;EUR
+E0;Africa;Gambia;EUR
+E0;Africa;Ghana;GHS
+E0;Africa;Guinea;EUR
+E0;Africa;Guinea-Bissau;EUR
+E0;Africa;Equatorial Guinea;EUR
+E0;Africa;Kenya;KES
+E0;Africa;Lesotho;EUR
+E0;Africa;Liberia;EUR
+E0;Africa;Libya;LYD
+E0;Africa;Madagascar;EUR
+E0;Africa;Malawi;EUR
+E0;Africa;Mali;EUR
+E0;Africa;Morocco;MAD
+E0;Africa;Mauritius;EUR
+E0;Africa;Mauritania;EUR
+E0;Africa;Mozambique;MZN
+E0;Africa;Namibia;EUR
+E0;Africa;Niger;EUR
+E0;Africa;Nigeria;NGN
+E0;Africa;Central African Republic;EUR
+E0;Africa;Republic of the Congo;EUR
+E0;Africa;Democratic Republic of the Congo;EUR
+E0;Africa;Rwanda;EUR
+E0;Africa;Sao Tome and Principe;EUR
+E0;Africa;Senegal;XOF
+E0;Africa;Seychelles;EUR
+E0;Africa;Sierra Leone;EUR
+E0;Africa;Somalia;EUR
+E0;Africa;South Africa;ZAR
+E0;Africa;Sudan;EUR
+E0;Africa;South Sudan;EUR
+E0;Africa;Tanzania;TZS
+E0;Africa;Togo;EUR
+E0;Africa;Tunisia;TND
+E0;Africa;Uganda;EUR
+E0;Africa;Djibouti;EUR
+E0;Africa;Zambia;ZMW
+E0;Africa;Zimbabwe;ZWL
+E0;Americas;Antigua and Barbuda;EUR
+E0;Americas;Argentina;ARS
+E0;Americas;Bahamas;EUR
+E0;Americas;Barbados;EUR
+E0;Americas;Belize;EUR
+E0;Americas;Bolivia;BOB
+E0;Americas;Brazil;BRL
+E0;Americas;Chile;CLP
+E0;Americas;Colombia;COP
+E0;Americas;Costa Rica;CRC
+E0;Americas;Cuba;CUP
+E0;Americas;Dominica;EUR
+E0;Americas;Ecuador;USD
+E0;Americas;El Salvador;USD
+E0;Americas;Grenada;EUR
+E0;Americas;Guatemala;GTQ
+E0;Americas;Guyana;EUR
+E0;Americas;Haiti;EUR
+E0;Americas;Honduras;HNL
+E0;Americas;Jamaica;JMD
+E0;Americas;Mexico;MXN
+E0;Americas;Nicaragua;NIO
+E0;Americas;Panama;PAB
+E0;Americas;Paraguay;PYG
+E0;Americas;Peru;PEN
+E0;Americas;Dominican Republic;DOP
+E0;Americas;Saint Kitts and Nevis;EUR
+E0;Americas;Saint Vincent and the Grenadines;EUR
+E0;Americas;Saint Lucia;EUR
+E0;Americas;Suriname;EUR
+E0;Americas;Trinidad and Tobago;EUR
+E0;Americas;Uruguay;UYU
+E0;Americas;Venezuela;VES
+E0;Asia;Afghanistan;AFN
+E0;Asia;Saudi Arabia;SAR
+E0;Asia;Armenia;AMD
+E0;Asia;Azerbaijan;AZN
+E0;Asia;Bahrain;BHD
+E0;Asia;Bangladesh;BDT
+E0;Asia;Bhutan;EUR
+E0;Asia;Brunei;EUR
+E0;Asia;Cambodia;KHR
+E0;Asia;Qatar;QAR
+E0;Asia;China;CNY
+E0;Asia;Cyprus;EUR
+E0;Asia;North Korea;EUR
+E0;Asia;South Korea;KRW
+E0;Asia;United Arab Emirates;AED
+E0;Asia;Philippines;PHP
+E0;Asia;Georgia;GEL
+E0;Asia;India;INR
+E0;Asia;Indonesia;IDR
+E0;Asia;Iraq;IQD
+E0;Asia;Iran;IRR
+E0;Asia;Israel;ILS
+E0;Asia;Japan;JPY
+E0;Asia;Jordan;JOD
+E0;Asia;Kazakhstan;KZT
+E0;Asia;Kyrgyzstan;EUR
+E0;Asia;Kuwait;KWD
+E0;Asia;Laos;EUR
+E0;Asia;Lebanon;LBP
+E0;Asia;Malaysia;MYR
+E0;Asia;Maldives;EUR
+E0;Asia;Mongolia;MNT
+E0;Asia;Myanmar;MMK
+E0;Asia;Nepal;EUR
+E0;Asia;Oman;OMR
+E0;Asia;Pakistan;PKR
+E0;Asia;Palestine;EUR
+E0;Asia;Russia;RUB
+E0;Asia;Singapore;SGD
+E0;Asia;Syria;SYP
+E0;Asia;Sri Lanka;LKR
+E0;Asia;Thailand;THB
+E0;Asia;Tajikistan;EUR
+E0;Asia;Timor-Leste;EUR
+E0;Asia;Turkmenistan;EUR
+K0;Asia;Turkey;TRY
+E0;Asia;Uzbekistan;UZS
+E0;Asia;Vietnam;VND
+E0;Asia;Yemen;YER
+E0;Europe;Albania;ALL
+E0;Europe;Germany;EUR
+00;Europe;Andorra;EUR
+E0;Europe;Austria;EUR
+E0;Europe;Belgium;EUR
+E0;Europe;Belarus;BYN
+E0;Europe;Bosnia and Herzegovina;BAM
+E0;Europe;Bulgaria;BGN
+E0;Europe;Croatia;EUR
+E0;Europe;Denmark;DKK
+E0;Europe;Slovakia;EUR
+E0;Europe;Slovenia;EUR
+00;Europe;Spain;EUR
+E0;Europe;Estonia;EUR
+E0;Europe;Finland;EUR
+E0;Europe;France;EUR
+E0;Europe;Greece;EUR
+E0;Europe;Hungary;HUF
+E0;Europe;Ireland;EUR
+E0;Europe;Iceland;ISK
+E0;Europe;Italy;EUR
+E0;Europe;Kosovo;EUR
+E0;Europe;Latvia;EUR
+E0;Europe;Liechtenstein;EUR
+E0;Europe;Lithuania;EUR
+E0;Europe;Luxembourg;EUR
+E0;Europe;Malta;EUR
+E0;Europe;Moldova;MDL
+E0;Europe;Monaco;EUR
+E0;Europe;Montenegro;EUR
+E0;Europe;Norway;NOK
+E0;Europe;Netherlands;EUR
+P1;Europe;Poland;PLN
+00;Europe;Portugal;EUR
+30;Europe;United Kingdom;GBP
+72;Europe;Czech Republic;CZK
+E0;Europe;Romania;RON
+E0;Europe;San Marino;EUR
+E0;Europe;Serbia;RSD
+E0;Europe;Sweden;SEK
+E0;Europe;Switzerland;CHF
+E0;Europe;Ukraine;UAH
+E0;Europe;Vatican City;EUR
+E0;Oceania;Australia;AUD
+E0;Oceania;Fiji;EUR
+E0;Oceania;Marshall Islands;EUR
+E0;Oceania;Solomon Islands;EUR
+E0;Oceania;Kiribati;EUR
+E0;Oceania;Micronesia;EUR
+E0;Oceania;Nauru;EUR
+E0;Oceania;New Zealand;NZD
+E0;Oceania;Palau;EUR
+E0;Oceania;Papua New Guinea;EUR
+E0;Oceania;Samoa;EUR
+E0;Oceania;Tonga;EUR
+E0;Oceania;Tuvalu;EUR
+E0;Oceania;Vanuatu;EUR
