@@ -2,7 +2,7 @@
 
 Calculadora de comparación de máquinas de lavado Fagor (WRC/WRA y CCO) frente a modelos de la competencia. Calcula coste operativo, ahorro, TCO (coste total de propiedad) y ROI, y genera un informe descargable en PDF.
 
-Sitio en producción: _(pega aquí la URL en cuanto la tengas — GitHub Pages, Cloudflare Pages, etc.)_
+Sitio en producción: _((https://inakigoikofagor.github.io/fagor-comparator-v3/fagor_calculadora.html) — GitHub Pages, Cloudflare Pages, etc.)_
 
 ## Archivos del proyecto
 
